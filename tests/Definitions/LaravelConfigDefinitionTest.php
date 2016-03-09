@@ -4,13 +4,13 @@ namespace Mosaic\Tests\Definitions;
 
 use Interop\Container\Definition\DefinitionProviderInterface;
 use Mosaic\Config\Config;
-use Mosaic\Config\Definitions\LaravelConfigDefinition;
+use Mosaic\Config\Definitions\LaravelConfigProvider;
 
 class LaravelConfigDefinitionTest extends \PHPUnit_Framework_TestCase
 {
     public function getDefinition() : DefinitionProviderInterface
     {
-        return new LaravelConfigDefinition();
+        return new LaravelConfigProvider();
     }
 
     public function shouldDefine() : array

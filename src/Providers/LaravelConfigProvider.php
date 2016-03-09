@@ -7,7 +7,7 @@ use Interop\Container\Definition\DefinitionProviderInterface;
 use Mosaic\Config\Adapters\LaravelConfig;
 use Mosaic\Config\Config;
 
-class LaravelConfigDefinition implements DefinitionProviderInterface
+class LaravelConfigProvider implements DefinitionProviderInterface
 {
     /**
      * Returns the definition to register in the container.
