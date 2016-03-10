@@ -1,12 +1,12 @@
 <?php
 
-namespace Mosaic\Tests\Definitions;
+namespace Mosaic\Tests\Providers;
 
 use Interop\Container\Definition\DefinitionProviderInterface;
 use Mosaic\Config\Config;
-use Mosaic\Config\Definitions\LaravelConfigProvider;
+use Mosaic\Config\Providers\LaravelConfigProvider;
 
-class LaravelConfigDefinitionTest extends \PHPUnit_Framework_TestCase
+class LaravelConfigProviderTest extends \PHPUnit_Framework_TestCase
 {
     public function getDefinition() : DefinitionProviderInterface
     {

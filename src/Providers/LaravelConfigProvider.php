@@ -1,6 +1,6 @@
 <?php
 
-namespace Mosaic\Config\Definitions;
+namespace Mosaic\Config\Providers;
 
 use Illuminate\Config\Repository;
 use Interop\Container\Definition\DefinitionProviderInterface;
