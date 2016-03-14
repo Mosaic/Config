@@ -1,8 +1,8 @@
 # Mosaic
 
-[![Build Status](https://travis-ci.org/Mosaic/Exceptions.svg?branch=master)](https://travis-ci.org/Mosaic/Exceptions)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/Mosaic/Exceptions/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/Mosaic/Exceptions/?branch=master)
-[![Code Coverage](https://scrutinizer-ci.com/g/Mosaic/Exceptions/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/Mosaic/Exceptions/?branch=master)
+[![Build Status](https://travis-ci.org/Mosaic/Config.svg?branch=master)](https://travis-ci.org/Mosaic/Config)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/Mosaic/Config/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/Mosaic/Config/?branch=master)
+[![Code Coverage](https://scrutinizer-ci.com/g/Mosaic/Config/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/Mosaic/Config/?branch=master)
 
 [![SensioLabsInsight](https://insight.sensiolabs.com/projects/66bb93af-6378-481f-a06f-9409f2f0eaca/big.png)](https://insight.sensiolabs.com/projects/66bb93af-6378-481f-a06f-9409f2f0eaca)
 
